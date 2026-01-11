@@ -5,4 +5,4 @@
 # This tool is intended for educational and personal offline use only.
 # It performs memory editing on Sonic Mania (PC/Steam version).
 # Use it at your own risk - the author is not responsible for any issues.
-# Do NOT use in online modes, leaderboards, competitions or share modified rings online.
+# Do NOT use in online modes, leaderboards, competitions.
